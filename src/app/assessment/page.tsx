@@ -32,8 +32,7 @@ export default function AssessmentPage() {
             </Reveal>
             <Reveal delay={0.2}>
               <p className="text-body-lg text-ink-soft mt-6 max-w-2xl">
-                Your answers are reviewed by Dr.&nbsp;Shruthi&rsquo;s clinical team within a
-                working day. No commitment — this is how every Reconnect program begins.
+                Your answers are reviewed by Dr.&nbsp;Shruthi&rsquo;s clinical team — you’ll hear back shortly. No commitment — this is how every Reconnect program begins.
               </p>
             </Reveal>
           </div>

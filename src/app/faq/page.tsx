@@ -220,7 +220,7 @@ export default function FAQPage() {
             <Reveal delay={0.2}>
               <p className="text-body-lg text-ink-soft mt-8 max-w-2xl">
                 If yours isn&rsquo;t here, write to us. Dr.&nbsp;Shruthi&rsquo;s team reads
-                every message and replies personally — usually within a working day.
+                every message and replies personally — usually shortly.
               </p>
             </Reveal>
           </div>

@@ -53,7 +53,7 @@ const tracks = [
   },
   {
     slug: "recover",
-    title: "Recover",
+    title: "Strengthen your bones",
     headline: "Rebuild from surgery or severe wear — safely, with oversight.",
     description:
       "For post-surgery or severe degeneration. Rebuild strength safely under close medical guidance.",
@@ -109,7 +109,7 @@ const conditionGroups = [
 ] as const;
 
 const comparison = {
-  headers: ["", "Prevent", "Manage", "Recover"],
+  headers: ["", "Prevent", "Manage", "Strengthen your bones"],
   rows: [
     {
       label: "Who it’s for",

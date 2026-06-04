@@ -98,8 +98,7 @@ export default function ContactForm() {
               Thank you, {form.name || "friend"}.
             </h3>
             <p className="text-body-lg text-ink-soft mt-5 max-w-md mx-auto">
-              A real person from Dr.&nbsp;Shruthi&rsquo;s team will reply within a working day —
-              usually faster. We read every message.
+              A real person from Dr.&nbsp;Shruthi&rsquo;s team will reply shortly. We read every message.
             </p>
             <div className="mt-8 flex flex-wrap justify-center gap-3">
               <Button variant="sage-outline" href="/assessment" arrow>

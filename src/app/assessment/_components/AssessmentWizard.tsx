@@ -585,7 +585,7 @@ function Step5({ answers, update }: { answers: Answers; update: <K extends keyof
       <StepHeader
         eyebrow="06 of 06"
         title="Where can we send your recommendation?"
-        hint="A real person from Dr. Shruthi's team reviews every assessment within a working day."
+        hint="A real person from Dr. Shruthi's team reviews every assessment shortly."
       />
 
       <div className="grid grid-cols-1 gap-5">
@@ -657,7 +657,7 @@ function Confirmation({
 
       <p className="text-body-sm text-ink-soft mt-4 max-w-xl mx-auto">
         Dr.&nbsp;Shruthi&rsquo;s team will review your full assessment and confirm — or
-        adjust — this recommendation within a working day.
+        adjust — this recommendation shortly.
       </p>
 
       <div className="flex flex-wrap justify-center gap-4 mt-10">
